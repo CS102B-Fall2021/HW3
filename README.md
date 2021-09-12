@@ -1,6 +1,6 @@
-# CS102D - HW#3
+# CS102B - HW#3
 
-Due 09/26/20 at 11:59PM.  
+Due 09/25/20 at 11:59PM.  
 Late submissions are subject to a 20% late penalty.
 
 ## Reading
